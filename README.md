@@ -50,3 +50,26 @@ The app extracts key legal clauses and generates a concise, user-friendly summar
 
 ---
 
+# 1️⃣ Clone project
+git clone <(https://github.com/rachitrawal3/ClauseFinder-AI)>
+cd <project-folder>
+
+# 2️⃣ Create virtual environment
+python -m venv .venv
+
+# 3️⃣ Activate virtual environment
+# macOS / Linux
+source .venv/bin/activate
+# Windows (PowerShell)
+# .venv\Scripts\activate
+
+# 4️⃣ Install dependencies
+pip install -r requirements.txt
+
+# 5️⃣ Add API Key in .env file
+
+
+# 6️⃣ Run the app
+streamlit run app.py
+
+
