@@ -58,8 +58,10 @@ cd <project-folder>
 python -m venv .venv
 
 # 3️⃣ Activate virtual environment
+
 # macOS / Linux
 source .venv/bin/activate
+
 # Windows (PowerShell)
 # .venv\Scripts\activate
 
