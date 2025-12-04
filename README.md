@@ -50,13 +50,3 @@ The app extracts key legal clauses and generates a concise, user-friendly summar
 
 ---
 
-## 📁 Project Structure
-
-For now the project is a single main file (for example):
-
-```text
-.
-├── app.py                 # Main Streamlit app (code you shared)
-├── requirements.txt       # Python dependencies (recommended)
-├── contracts_analysis.csv # Auto-created after first analysis (output)
-└── .env                   # Environment variables (contains GROQ_API_KEY)
