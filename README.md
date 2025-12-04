@@ -1,4 +1,4 @@
-# 📄 Contract Analyzer (RAG + Groq + FAISS)
+# 📄 ClauseFinder-AI
 
 This is a Streamlit web app that analyzes **contract PDFs** using a **RAG (Retrieval-Augmented Generation)** pipeline built on:
 
