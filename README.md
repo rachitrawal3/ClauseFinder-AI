@@ -18,7 +18,7 @@ The app extracts key legal clauses and generates a concise, user-friendly summar
   - Splits the document into chunks
   - Builds a **FAISS** vector store
   - Retrieves highly relevant sections using RAG
-- Extracts these clauses (copied **verbatim** from the contract context):
+- Extracts these clauses :
   - ✂️ **Termination Clause**
   - 🤫 **Confidentiality Clause**
   - ⚖️ **Liability Clause**
